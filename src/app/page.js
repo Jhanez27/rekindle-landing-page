@@ -11,7 +11,7 @@ export default function Home() {
           className="w-20 h-auto drop-shadow-[0_0_10px_rgba(255,165,0,0.8)]"
         />
         <h1 className="text-5xl font-bold text-orange-500 drop-shadow-[0_0_15px_rgba(255,140,0,1)]">
-          RENKIDLE
+          REKINDLE
         </h1>
       </div>
       <h2 className="text-3xl text-orange-400 font-semibold drop-shadow-[0_0_10px_rgba(255,140,0,1)]">
