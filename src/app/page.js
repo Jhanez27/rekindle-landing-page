@@ -18,7 +18,7 @@ export default function Home() {
         YOUR EMAIL HAS BEEN CONFIRMED!
       </h2>
       <p className="mt-4 text-orange-300 text-lg max-w-md">
-        Welcome to Renkidle — your adventure begins now.
+        Welcome to Rekindle — your adventure begins now.
       </p>
       <p className="mt-4 text-orange-300 text-lg max-w-md">
         Go Back to the Game and Enter Login Credentials
